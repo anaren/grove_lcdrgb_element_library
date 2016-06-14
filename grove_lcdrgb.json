@@ -1,0 +1,87 @@
+{
+	"type": "Embedded Library",
+	"label": "Grove LCD RGB Driver",
+	"language": {
+		"en": {
+			"label": "Grove LCD RGB Driver"
+		}
+	},
+	"name": "grove_rgblcdv4",
+	"author": "Anaren Inc.",
+	"manufacturer":"Seeed Studio",
+	"description":"This module is based around a 16x2 character LCD that communicates over an I2C bus, and also features a RGB backlight.",
+	"signature": "",
+	"version": "1.0.0",
+	
+	"links":{
+		"Datasheet":"http://http://www.mouser.com/catalog/specsheets/Seeed_104030001.pdf",
+		"Wiki Page":"https://atmosphere.anaren.com/wiki/Grove_LCD_RGB_V4_Driver",
+		"Seed Studio Wiki Page":"http://www.seeedstudio.com/wiki/Grove_-_LCD_RGB_Backlight"
+	},
+	
+	"code": {
+		"global" : "",
+		"setup" : "" 
+	},
+	
+	"elements": {
+		"setText": {
+			"label": "Set Display Text",
+			"language": {
+				"en": {
+					"label": "Set Display Text"
+				}
+			},
+			"returnType":"void",
+			"inputType":"string",
+			"icon": null,
+			"code": ""
+		},
+		"displayOff": {
+			"label": "Turn display off quickly",
+			"language": {
+				"en": {
+					"label": "Turn display off quickly"
+				}
+			},
+			"returnType":"void",
+			"inputType":"void",
+			"icon": null,
+			"code": ""
+		},
+		"displayOn": {
+			"label": "Turn display on quickly",
+			"language": {
+				"en": {
+					"label": "Turn display on quickly"
+				}
+			},
+			"returnType":"void",
+			"inputType":"void",
+			"icon": null,
+			"code": ""
+		},
+		"clearDisplay": {
+			"label": "Clear the display",
+			"language": {
+				"en": {
+					"label": "Clear the display"
+				}
+			},
+			"returnType":"void",
+			"inputType":"void",
+			"icon": null,
+			"code": ""
+		}
+	},
+	
+	"config":{
+	},
+	
+	"categories":["Display", "LCD", "RGB", "New"],
+	"links":{
+		"Product Page":"https://",
+		"Datasheet":"https://",
+		"Wiki Page":"http://www.seeedstudio.com/wiki/Grove_-_LCD_RGB_Backlight"
+	}
+}
