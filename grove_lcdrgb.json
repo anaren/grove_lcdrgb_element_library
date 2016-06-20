@@ -6,7 +6,7 @@
 			"label": "Grove LCD RGB Driver"
 		}
 	},
-	"name": "grove_rgblcdv4",
+	"name": "grove_lcdrgb",
 	"author": "Anaren Inc.",
 	"manufacturer":"Seeed Studio",
 	"description":"This module is based around a 16x2 character LCD that communicates over an I2C bus, and also features a RGB backlight.",
