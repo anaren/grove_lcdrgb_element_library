@@ -1,2 +1,2 @@
 	//Clear display
-	GROVE_RGBLCDV4_Clear();
+	GROVE_LCDRGB_Clear();
