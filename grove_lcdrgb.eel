@@ -89,7 +89,7 @@
         "Wiki Page": "http://www.seeedstudio.com/wiki/Grove_-_LCD_RGB_Backlight"
     },
     "manufacturer": "Seeed Studio",
-    "name": "grove_rgblcdv4",
+    "name": "grove_lcdrgb",
     "signature": "",
     "type": "Embedded Library",
     "version": "1.0.0"
